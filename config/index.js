@@ -7,7 +7,7 @@ module.exports = {
         // url: 'https://sidechain.livenet.sonm.com',
         url: 'http://222.200.180.185:8545',
         contractAddress: {
-            addressRegistry: '0xc8fed8603e0e6bf0d9a6b6c9b89606135f60ed71',
+            addressRegistry: '0x61034bb2077f7622426a9933f358d0e53b565165',
         },
     },
     rinkeby: {
@@ -19,7 +19,7 @@ module.exports = {
         // url: 'https://sidechain-dev.sonm.com',
         url: 'http://222.200.180.185:8545',
         contractAddress: {
-            addressRegistry: '0xc8fed8603e0e6bf0d9a6b6c9b89606135f60ed71',
+            addressRegistry: '0x61034bb2077f7622426a9933f358d0e53b565165',
         },
     },
     testrpc: {
@@ -29,7 +29,7 @@ module.exports = {
     testrpc_private: {
         url: 'https://proxy.test.sonm.com:8546',
         contractAddress: {
-            addressRegistry: '0xc8fed8603e0e6bf0d9a6b6c9b89606135f60ed71',
+            addressRegistry: '0x61034bb2077f7622426a9933f358d0e53b565165',
         },
     },
 };
